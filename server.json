@@ -1,0 +1,34 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.upgrow/instagram-growth",
+  "title": "UpGrow Instagram Growth",
+  "description": "UpGrow Instagram growth MCP server: plans, one-time shop, free Instagram tools and blog search.",
+  "websiteUrl": "https://www.upgrow.com/developers",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "https://www.upgrow.com/img/upgrow-logo-icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://www.upgrow.com/img/favicons/apple-icon-144x144.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "144x144"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.upgrow.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/UpGrow-com/instagram-growth-mcp",
+    "source": "github"
+  }
+}
