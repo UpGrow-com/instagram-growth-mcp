@@ -1,0 +1,11 @@
+site_name: UpGrow Instagram Growth MCP server and API
+site_url: https://upgrow.readthedocs.io/
+site_description: Free, read-only MCP server, A2A agent and REST API for UpGrow, the AI-powered Instagram growth service.
+repo_url: https://github.com/UpGrow-com/instagram-growth-mcp
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - MCP server: mcp-server.md
+  - A2A agent: a2a-agent.md
+  - REST API: rest-api.md
